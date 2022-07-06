@@ -1,2 +1,2 @@
-# Unity-Game-Development
-Unity Game Development -published by Packt
+# Unity-3DGame-Development
+Unity 3DGame Development -published by Packt
