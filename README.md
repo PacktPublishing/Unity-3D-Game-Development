@@ -67,4 +67,7 @@ as dealing with environment itself. Maybe add a jump!
 We would like to thank Packt for working with us during this proccess. It was our first book
 together and we were able to put together a strong product.
 
-We also wanted to thank our QA friends checking in the product to help with getting it to the state that game is currently in.
+We also wanted to thank our QA friends checking in the product to help with getting it to the state that game is currently in.### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801076142">https://packt.link/free-ebook/9781801076142 </a> </p>
