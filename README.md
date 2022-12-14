@@ -1,4 +1,16 @@
 
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781801076142)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
+
 # Lost Exodus (A vertical slice)
 
 This project is a vertical slice designed for the book "Unity 3D Game Development". 
